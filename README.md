@@ -2,7 +2,50 @@
 
 **University of Illinois at Chicago | 2014-2016**
 
-This portfolio showcases 8 machine learning and data engineering projects completed during my Master's degree. Each project repository contains original code, documentation, and commit history from 2014-2016.
+This repository showcases 8 machine learning and data engineering projects completed during my Master's degree, demonstrating hands-on experience with ML algorithms, statistical modeling, NLP, real-time data systems, and scalable architectures.
+
+---
+
+## 📑 Table of Contents
+- [About This Portfolio](#about-this-portfolio)
+- [Portfolio at a Glance](#portfolio-at-a-glance)
+- [Featured Projects](#featured-projects)
+- [Additional Projects](#additional-projects)
+- [Technical Skills](#technical-skills-demonstrated)
+- [Portfolio Timeline](#portfolio-timeline)
+- [Connect](#connect)
+
+---
+
+## 📖 About This Portfolio
+
+This portfolio documents 8 machine learning and data engineering projects completed during my **Master of Science in Management Information Systems** at the University of Illinois at Chicago from **2014-2016**.
+
+**Why This Matters:**
+- These projects were completed **years before the current AI boom** (ChatGPT launched in 2022)
+- Demonstrates **10+ years of hands-on ML/NLP experience** starting from 2015
+- All repositories contain **original commit history** verifying when this work was completed
+- Foundation in classical ML techniques that underpin modern AI systems
+
+**Timeline:**
+- **Fall 2014:** First semester - Statistics (IDS 570), Databases (IDS 521)
+- **Spring 2015:** Statistical Software (IDS 462)
+- **Fall 2015:** Data Mining (IDS 572), Big Data Analytics (IDS 561)
+
+Each project repository maintains its original development timeline - click through to see commit history from 2014-2016.
+
+---
+
+## 📊 Portfolio at a Glance
+
+| Metric | Value |
+|--------|-------|
+| **Total Projects** | 8 |
+| **Courses Completed** | 5 core data science courses (IDS 570, 521, 462, 561, 572) |
+| **Time Period** | Fall 2014 - Fall 2015 |
+| **Technologies** | Python, R, SAS, SQL, MongoDB |
+| **ML Techniques** | Supervised Learning, Unsupervised Learning, NLP, Real-time Systems |
+| **Domain Areas** | Recommendation Systems, Sentiment Analysis, Customer Segmentation, Financial Analytics |
 
 ---
 
@@ -142,12 +185,6 @@ Predictive models for churn, credit risk, and sales forecasting.
 
 **LinkedIn:** www.linkedin.com/in/mounicasirineni
 **Email:** mounicasirineni@gmail.com
-
----
-
-## 📝 About
-
-These projects were completed during my Master's degree and represent foundational work in machine learning, natural language processing, and data engineering. The commit history in each repository shows the authentic timeline of when this work was done (2015-2016).
 
 ---
 
